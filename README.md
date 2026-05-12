@@ -17,34 +17,15 @@ A plugin for [Nuclear Music Player](https://nuclear.js.org) that fans out every 
 
 ## Installation
 
-Nuclear loads plugins from a specific directory on your system. Copy the plugin folder there and restart Nuclear.
-
-### macOS
-
-```
-~/Library/Application Support/com.nuclearplayer/plugins/nuclear-plugin-omnisource/1.0.0/
-```
-
-### Linux
-
-```
-~/.config/nuclear/plugins/nuclear-plugin-omnisource/1.0.0/
-```
-
-### Windows
-
-```
-%APPDATA%\nuclear\plugins\nuclear-plugin-omnisource\1.0.0\
-```
-
-**Steps:**
-
-1. Download or clone this repository
-2. Copy the entire folder contents into the path above (create the directories if they don't exist)
-3. Start (or restart) Nuclear
-4. Go to **Settings → Sources**
-5. Under **Streaming**, select **OmniSource**
-6. Under **Metadata**, select **OmniSource**
+1. Download or clone this repository to any folder on your system
+2. Open Nuclear and go to **Preferences**
+3. Navigate to **Plugins → Add Plugin**
+4. Select the downloaded plugin folder and confirm
+5. The plugin appears in the plugin list — toggle it **on**
+6. Go to **Preferences → Sources**
+7. Under **Streaming**, select **OmniSource**
+8. Under **Metadata**, select **OmniSource**
+9. Restart Nuclear
 
 ---
 
