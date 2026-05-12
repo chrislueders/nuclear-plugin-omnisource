@@ -69,6 +69,7 @@ Click any playlist entry to open it. Nuclear loads all tracks from the playlist.
 
 - [Nuclear Music Player](https://nuclear.js.org) — any recent version
 - Internet connection (all sources are fetched live; no API keys required)
+- **Official source plugins by [nukeop](https://github.com/nukeop)** — OmniSource relies on Nuclear's built-in streaming infrastructure, which requires the official YouTube, SoundCloud, and Bandcamp plugins to be installed and enabled. Without them, playback will not work. Install them the same way as OmniSource via **Preferences → Plugins → Add Plugin**.
 
 ---
 
