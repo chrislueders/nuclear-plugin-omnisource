@@ -12,8 +12,11 @@ export const SOURCE_WEIGHTS = {
 
 export type SourcePrefix = keyof typeof SOURCE_WEIGHTS;
 
-export const DURATION_TOLERANCE = 0.05;
-export const DURATION_BONUS = 20;
+export const DURATION_BONUS = 30;
+
+export const VERBATIM_BONUS = 25;
+export const PROMOTED_BONUS = 8;
+export const PENALTY_PER_WORD = 15;
 
 export const SEARCH_LIMITS = {
   yt: 5,
