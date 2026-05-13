@@ -1,6 +1,6 @@
 {
   "name": "nuclear-plugin-omnisource",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Multi-source streaming and metadata plugin for Nuclear: fans out to YouTube, SoundCloud, and Bandcamp — includes YouTube playlist search",
   "author": "chrislueders",
   "license": "AGPL-3.0-only",
